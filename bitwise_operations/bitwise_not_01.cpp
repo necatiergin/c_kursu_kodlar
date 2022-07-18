@@ -18,5 +18,6 @@ int main()
 
 	bprint(x);
 	bprint(~x);
+	bprint(~~x);
 	printf("x = %d\n", x); //bitsel degil operatörünün yan etkisi yok
 }
