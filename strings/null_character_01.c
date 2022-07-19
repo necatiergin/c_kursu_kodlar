@@ -1,4 +1,4 @@
-int main()
+int main(void)
 {
 	char s[3] = { 'A', 'L', 'I' };
 
