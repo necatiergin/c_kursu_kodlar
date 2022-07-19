@@ -4,7 +4,7 @@
 
 #define   SIZE				100
 
-int main()
+int main(void)
 {
 	char name[SIZE];
 
