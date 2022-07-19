@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int main(void)
 {
 	//int x = 120, *p1 = &x, *p2 = p1;
